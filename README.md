@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamjahid25
+- 👋 Hi, I’m Jahid
 - 👀 I’m interested in Learning New Things 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
